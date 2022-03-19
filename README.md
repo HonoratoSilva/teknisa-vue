@@ -1,6 +1,6 @@
 # teknisa
 
-> Front-End com Vue
+> Treinamento teknisa
 
 ## Build Setup
 
